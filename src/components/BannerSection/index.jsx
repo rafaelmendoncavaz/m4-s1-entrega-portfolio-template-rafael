@@ -16,9 +16,11 @@ export function BannerSection() {
                 <p className='paragraph'>
                     Uma frase interessante sobre mim
                 </p>
-                <button className='btn'>
-                    Saiba mais
-                </button>
+                <a href="">
+                    <button className='btn'>
+                        Saiba mais
+                    </button>
+                </a>
             </div>
             <img src={bannerImage} alt="Imagem do banner" />
         </section>

@@ -1,6 +1,6 @@
 .title1 {
 
-    font-size: 4.8rem;
+    font-size: clamp(4.2rem, 4.029rem + 0.401vw, 4.8rem);
     font-weight: 700;
     color: var(--grayscale-200);
 
@@ -8,7 +8,7 @@
 
 .title2 {
 
-    font-size: 4rem;
+    font-size: clamp(3.6rem, 3.486rem + 0.268vw, 4rem);
     font-weight: 600;
     color: var(--grayscale-200);
 

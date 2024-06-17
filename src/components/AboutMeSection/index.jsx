@@ -3,7 +3,7 @@ import style from './style.module.css'
 export function AboutMeSection() {
 
     return(
-        <section className={`${style.container} center`}>
+        <section className={`${style.container} center`} id='about' >
             <h1 className='title1'>
                 Sobre mim
             </h1>

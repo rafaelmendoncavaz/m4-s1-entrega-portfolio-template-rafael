@@ -4,7 +4,7 @@ import style from './style.module.css'
 export function TechSection() {
 
     return(
-        <section className={`${style.container} center`}>
+        <section className={`${style.container} center`} id="stacks" >
             <h1 className="title1">
                 Tecnologias
             </h1>

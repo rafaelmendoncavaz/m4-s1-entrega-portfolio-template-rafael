@@ -8,13 +8,15 @@ export function Header() {
                 Portfólio
             </h1>
             <div className={style.menu}>
-                <a href="#">Sobre</a>
-                <a href="#">Stack</a>
-                <a href="#">Projetos</a>
+                <a href="#about">Sobre</a>
+                <a href="#stacks">Stack</a>
+                <a href="#projects">Projetos</a>
             </div>
-            <button className="btn">
-                Contato
-            </button>
+            <a href="#contact">
+                <button className="btn">
+                    Contato
+                </button>
+            </a>
         </header>
     )
 }
