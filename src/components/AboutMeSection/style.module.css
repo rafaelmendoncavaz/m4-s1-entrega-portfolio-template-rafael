@@ -1,0 +1,17 @@
+.container {
+
+    display: flex;
+    justify-content: space-between;
+    gap: 8rem;
+
+    margin-top: 10rem;
+
+}
+
+.container p {
+
+    line-height: 2;
+    text-align: justify;
+    width: 66%;
+
+}

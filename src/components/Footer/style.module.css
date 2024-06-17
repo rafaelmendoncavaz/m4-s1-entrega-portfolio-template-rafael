@@ -1,0 +1,28 @@
+.container {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-top: 10rem;
+    margin-bottom: 2rem;
+    border-block: solid 1px var(--grayscale-200);
+    padding-block: 5rem;
+
+}
+
+.contact {
+
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
+}
+
+.redirect {
+
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+
+}

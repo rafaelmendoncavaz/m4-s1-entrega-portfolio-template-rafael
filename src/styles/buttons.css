@@ -1,0 +1,26 @@
+.btn {
+
+    padding: 1.3rem 3.9rem;
+
+    border: solid 1px transparent;
+    border-radius: 12px;
+    outline: none;
+
+    background-color: var(--color-200);
+
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--grayscale-200);
+    text-align: center;
+
+    cursor: pointer;
+
+    transition: .3s;
+
+}
+
+.btn:hover {
+
+    background-color: var(--color-300);
+
+}
