@@ -1,4 +1,4 @@
-import { ProjectsList } from "./ProjectsList";
+import { ProjectsList } from "./ProjectsList"
 import style from "./style.module.css"
 
 export function ProjectsSection() {

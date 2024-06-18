@@ -1,4 +1,4 @@
-import { TechList } from "./TechList";
+import { TechList } from "./TechList"
 import style from "./style.module.css"
 
 export function TechSection() {

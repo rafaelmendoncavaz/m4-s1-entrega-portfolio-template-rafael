@@ -1,6 +1,6 @@
-import { ProjectsCard } from "./ProjectsCard";
-import { projects } from "../../../data/projects.js";
-import style from "./style.module.css";
+import { ProjectsCard } from "./ProjectsCard"
+import { projects } from "../../../data/projects.js"
+import style from "./style.module.css"
 
 export function ProjectsList() {
 
