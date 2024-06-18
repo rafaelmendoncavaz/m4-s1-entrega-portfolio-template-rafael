@@ -1,3 +1,3 @@
-export const username = "RAFAELMENCONCAVAZ";
+export const username = "RAFAELMENCONCAVAZ"
 
-export const user = "Rafael Mendonça Vaz";
+export const user = "Rafael Mendonça Vaz"

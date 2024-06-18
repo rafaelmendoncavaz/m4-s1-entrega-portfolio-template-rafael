@@ -1,5 +1,5 @@
 import { TechList } from "./TechList";
-import style from './style.module.css'
+import style from "./style.module.css"
 
 export function TechSection() {
 

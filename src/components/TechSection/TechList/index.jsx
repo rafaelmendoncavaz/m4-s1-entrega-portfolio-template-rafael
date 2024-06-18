@@ -1,6 +1,6 @@
 import { TechCard } from "./TechCard"
 import { technologies } from "../../../data/technologies.js"
-import style from './style.module.css'
+import style from "./style.module.css"
 
 export function TechList() {
 
